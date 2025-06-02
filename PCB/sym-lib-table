@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "OPL")(type "KiCad")(uri "D:/HackClub Projects/Assests/Kicad Libraries/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
+  (lib (name "Better Keyboard")(type "KiCad")(uri "D:/HackClub Projects/Assests/Kicad Libraries/ScottoKicad/symbols/ScottoKeebs.kicad_sym")(options "")(descr ""))
+)
